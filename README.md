@@ -1,6 +1,12 @@
 
 a notebook containing a messy implementation of jupyters @interact
 
+# content
+
+* python decorators.ipynb: a recap on function and class decorators
+* interact decorator using function.ipynb: implementation using a function decorator
+* interact decorator using class.ipynb: implementation using a class decorator
+
 # bs
 
 [python decorators](https://realpython.com/primer-on-python-decorators/)
