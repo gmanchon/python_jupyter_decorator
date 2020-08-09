@@ -3,9 +3,9 @@ a notebook containing a messy implementation of jupyters @interact
 
 # content
 
-* [a recap on function and class decorators](python decorators.ipynb)
-* [implementation using a function decorator](interact decorator using function.ipynb)
-* [implementation using a class decorator](interact decorator using class.ipynb)
+* [a recap on function and class decorators](python%20decorators.ipynb)
+* [implementation using a function decorator](interact%20decorator%20using%20function.ipynb)
+* [implementation using a class decorator](interact%20decorator%20using%20class.ipynb)
 
 # resources
 
